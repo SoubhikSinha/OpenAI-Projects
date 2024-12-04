@@ -1,0 +1,5 @@
+1. Create Environment (Windows - in CMD) : conda create -p venv python=3.9 -y
+2. Activate Environment : conda activate venv/
+3. Installing libraries : pip install -r requirements.txt
+4. Go to https://platform.openai.com/api-keys (LOGIN ofc) and "Create New Secret Key" - Name it
+5. Copy the Key generated (DO NOT SHARE)
